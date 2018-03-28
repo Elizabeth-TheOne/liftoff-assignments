@@ -1,3 +1,4 @@
+
 # Project Planning
 For this assignment, you'll create some initial plans for your project.
 
@@ -12,13 +13,13 @@ For this assignment, you'll create some initial plans for your project.
 them as a bulleted/unordered list with links to the files.)
 
 * Wireframe 1 page 1
-![Page 1](C:\Users\e2737\Desktop\stuff)
+![Page 1](https://github.com/Elizabeth-TheOne/liftoff-assignments/blob/master/P3-Project_Planning/Page%201.jpg)
 
 * Wireframe 2 page 2
-![Page 2](C:\Users\e2737\Desktop\stuff)
+![Page 2](https://github.com/Elizabeth-TheOne/liftoff-assignments/blob/master/P3-Project_Planning/Page%202.jpg)
 
 * Wireframe 3 page 3
-![Page 3](C:\Users\e2737\Desktop\stuff)
+![Page 3](https://github.com/Elizabeth-TheOne/liftoff-assignments/blob/master/P3-Project_Planning/Page%203.jpg)
 ### Project Tracker
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added 
