@@ -8,9 +8,11 @@ For this assignment you will need to upload your resume, and provide links to yo
 
 ### GitHub
 Provide a link to your GitHub account here.
+https://github.com/Elizabeth-TheOne
 
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+https://linkedin.com/in/elizabeth-w-6b740a161
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
